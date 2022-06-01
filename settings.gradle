@@ -1,0 +1,4 @@
+rootProject.name = 'pdffer'
+include 'pddffer-core'
+include 'pdffer-generator'
+include 'pdffer-explorer'
